@@ -1,4 +1,4 @@
-kumpulkan link selama < 50 link
-kunjungi setiap link dan ambil konten nya selama total word
+kumpulkan link sebanyak 50-100 link
+kunjungi setiap link dan ambil konten nya
 	simpan konten kedalam file .txt
-	hitung total word di dalam file .txt
+	hitung total kata di dalam file .txt hingga minimal 100.000 kata
